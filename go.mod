@@ -16,20 +16,18 @@ require (
 	github.com/libdns/libdns v0.2.1
 	github.com/miekg/dns v1.1.48
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/fileutil v0.0.0-20210926202739-6050d0acf73c
-	github.com/projectdiscovery/goflags v0.0.7
+	github.com/projectdiscovery/fileutil v0.0.0-20220705195237-01becc2a8963
+	github.com/projectdiscovery/goflags v0.1.2
 	github.com/projectdiscovery/gologger v1.1.4
 	github.com/projectdiscovery/retryabledns v1.0.13
 	github.com/projectdiscovery/retryablehttp-go v1.0.2
-	github.com/projectdiscovery/stringsutil v0.0.0-20220208075244-7c05502ca8e9
+	github.com/projectdiscovery/stringsutil v0.0.2
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/rs/xid v1.4.0
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.8.1
 	go.uber.org/zap v1.21.0
 	goftp.io/server/v2 v2.0.0
-	golang.org/x/net v0.0.0-20210825183410-e898025ed96a // indirect
-	golang.org/x/sys v0.0.0-20211210111614-af8b64212486 // indirect
-	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/corvus-ch/zbase32.v1 v1.0.0
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
